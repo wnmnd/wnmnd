@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Wina Munada!</h1>
+<h1 align="center">Hi there👋, I'm Winaaa!</h1>
 <h3 align="center">A computer science student specializing in Data Science.</h3>
 
 - 🔭 I’m currently working on [Smart Waste Segregation](https://github.com/wnmnd/Waste-Segregation-Using-CNN)
