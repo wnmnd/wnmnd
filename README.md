@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **deep learning and web development**
 
-- 👨‍💻 All of my projects are available at [wnmnd.github.io/portfolio](wnmnd.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [wnmnd.github.io/portfolio](https://wnmnd.github.io/portfolio)
 
 - 💬 Ask me about **machine learning and IoT**
 
